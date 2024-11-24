@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #FFD54F;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #4FC3F7;
+}
+
+#cabecalho .nav .nav-link {
+    color: #4FC3F7;
+}
+
+.section-title {
+    font-family: "Poppins", sans-serif;
+}
+
+.section-title span,
+.text-colored {
+    color: #4FC3F7;
+}
+
+.img-carousel {
+    max-height: 50vh !important;
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+#sobre-o-letrinha,
+#assinatura {
+    background-color: #FFF8E1;
+}
+
+.nav-assinaturas .nav-link.active,
+#fale-conosco button,
+.assinar,
+.assinar:hover {
+    background-color: #FFD54F;
+    color: #4FC3F7;
+}
+
+.nav-assinaturas .nav-link:hover {
+    color: #4FC3F7;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.no-resize {
+    resize: none;
+}
